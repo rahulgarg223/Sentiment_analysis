@@ -1,4 +1,4 @@
-# Sentiment_Classification_G12
+# Sentiment Classification
 
 ## Overview
 This project aims to perform sentiment analysis on Twitter data using various machine learning techniques. The dataset consists of tweets collected from Twitter, labeled with sentiments such as positive, negative, or neutral. 
@@ -40,13 +40,6 @@ The performance of each technique is evaluated based on metrics such as accuracy
 
 ## Conclusion
 Through this project, we gain insights into the effectiveness of different machine learning techniques for sentiment analysis on Twitter data. Further improvements and optimizations can be explored to enhance the accuracy and efficiency of sentiment analysis models.
-
-## Contributors
-- Anubhav Tandon(B22CS013)
-- Aditya Mundhara(B22AI057)
-- Sushrut Barmate(B22AI040)
-- Sidharth Shanu(B22CS049)
-- Tanmay Parashar(B22CS053)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
